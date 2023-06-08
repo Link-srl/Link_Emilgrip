@@ -1,0 +1,4 @@
+﻿SQLServer
+Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=ES_PHASE;Data Source=.\sqlexpress
+SELECT TOP 0 * FROM
+PhaseOdPFasi

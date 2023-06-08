@@ -1,0 +1,101 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CFF349B-9E8F-4048-B8E3-65E737A457F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esporta_PhaseStandard", "Esporta\Esporta_PhaseStandard.csproj", "{73A05F31-C44D-41DF-9A1F-B21C8FD40380}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{725B865C-59F1-46E9-B0EE-F2CB943592BF}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OnecodeFilesP28_Zero5Client_Shared", "..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5Client_Shared.shproj", "{8E6ED94D-52EB-4D75-9E19-F094F531CA56}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OnecodeFilesP28_Zero5CommonLibrary_Shared", "..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5CommonLibrary_Shared.shproj", "{99D6CAD5-9DAC-4813-B73A-372408C4F586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eSOLVERToolBox", "eSOLVERToolBox\eSOLVERToolBox.csproj", "{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OnecodeFilesP61_Zero5Client_Shared", "..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.shproj", "{A253522F-939F-4A84-98F5-019459B77C8F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OnecodeFilesP61_Zero5CommonLibrary_Shared", "..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.shproj", "{EBAE7622-FC14-42B6-B186-6197D214864D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importa_PhaseStandard", "Importa\Importa_PhaseStandard.csproj", "{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Importa_PhaseSplitTable", "Importa\Importa_PhaseSplitTable.csproj", "{2FF20275-53D6-4786-B7D6-1A004D464CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esporta_PhaseSplitTable", "Esporta\Esporta_PhaseSplitTable.csproj", "{F6B4CFDA-804F-4F2E-98BB-480366FA5394}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{2ff20275-53d6-4786-b7d6-1a004d464cbf}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{2ff20275-53d6-4786-b7d6-1a004d464cbf}*SharedItemsImports = 4
+		Shared\Shared.projitems*{2ff20275-53d6-4786-b7d6-1a004d464cbf}*SharedItemsImports = 4
+		Shared\Shared.projitems*{725b865c-59f1-46e9-b0ee-f2cb943592bf}*SharedItemsImports = 13
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5Client_Shared.projitems*{73a05f31-c44d-41df-9a1f-b21c8fd40380}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5CommonLibrary_Shared.projitems*{73a05f31-c44d-41df-9a1f-b21c8fd40380}*SharedItemsImports = 4
+		Shared\Shared.projitems*{73a05f31-c44d-41df-9a1f-b21c8fd40380}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5Client_Shared.projitems*{8e6ed94d-52eb-4d75-9e19-f094f531ca56}*SharedItemsImports = 13
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5CommonLibrary_Shared.projitems*{99d6cad5-9dac-4813-b73a-372408c4f586}*SharedItemsImports = 13
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{a253522f-939f-4a84-98f5-019459b77c8f}*SharedItemsImports = 13
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5Client_Shared.projitems*{a97e65d9-deda-4bb6-bd0d-af8fb28f3bd3}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5CommonLibrary_Shared.projitems*{a97e65d9-deda-4bb6-bd0d-af8fb28f3bd3}*SharedItemsImports = 4
+		Shared\Shared.projitems*{a97e65d9-deda-4bb6-bd0d-af8fb28f3bd3}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{ebae7622-fc14-42b6-b186-6197d214864d}*SharedItemsImports = 13
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5Client_Shared.projitems*{f2a61085-0138-4bbc-9cdc-fee298fc7b2c}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP28_Zero5CommonLibrary_Shared.projitems*{f2a61085-0138-4bbc-9cdc-fee298fc7b2c}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f2a61085-0138-4bbc-9cdc-fee298fc7b2c}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5Client_Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+		..\OnecodeFiles_Shared\OnecodeFilesP61_Zero5CommonLibrary_Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f6b4cfda-804f-4f2e-98bb-480366fa5394}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Debug|x86.ActiveCfg = Debug|x86
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Debug|x86.Build.0 = Debug|x86
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Release|Any CPU.ActiveCfg = Release|x86
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Release|x86.ActiveCfg = Release|x86
+		{73A05F31-C44D-41DF-9A1F-B21C8FD40380}.Release|x86.Build.0 = Release|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Debug|x86.ActiveCfg = Debug|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Debug|x86.Build.0 = Debug|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Release|Any CPU.ActiveCfg = Release|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Release|x86.ActiveCfg = Release|x86
+		{A97E65D9-DEDA-4BB6-BD0D-AF8FB28F3BD3}.Release|x86.Build.0 = Release|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|Any CPU.Build.0 = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|x86.ActiveCfg = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Debug|x86.Build.0 = Debug|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|Any CPU.ActiveCfg = Release|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|Any CPU.Build.0 = Release|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|x86.ActiveCfg = Release|x86
+		{F2A61085-0138-4BBC-9CDC-FEE298FC7B2C}.Release|x86.Build.0 = Release|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Debug|Any CPU.Build.0 = Debug|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Debug|x86.ActiveCfg = Debug|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Debug|x86.Build.0 = Debug|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Release|Any CPU.ActiveCfg = Release|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Release|Any CPU.Build.0 = Release|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Release|x86.ActiveCfg = Release|x86
+		{2FF20275-53D6-4786-B7D6-1A004D464CBF}.Release|x86.Build.0 = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|Any CPU.Build.0 = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|x86.ActiveCfg = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Debug|x86.Build.0 = Debug|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|Any CPU.ActiveCfg = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|Any CPU.Build.0 = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|x86.ActiveCfg = Release|x86
+		{F6B4CFDA-804F-4F2E-98BB-480366FA5394}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6DB80B-AB55-4786-8626-5BCBD853E7C1}
+	EndGlobalSection
+EndGlobal

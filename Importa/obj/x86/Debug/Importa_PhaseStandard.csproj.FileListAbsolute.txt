@@ -1,0 +1,14 @@
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Debug\Importa_PhaseStandard.csprojResolveAssemblyReference.cache
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Debug\ScambioDati.Properties.Resources.resources
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Debug\Importa_PhaseStandard.csproj.GenerateResource.Cache
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Debug_PhaseStandard\Importa.exe.config
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Debug_PhaseStandard\Importa.exe
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Debug_PhaseStandard\Importa.pdb
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Debug\Importa.exe
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Debug\Importa.pdb
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseStandard.csproj.AssemblyReference.cache
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\ScambioDati.Properties.Resources.resources
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseStandard.csproj.GenerateResource.cache
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseStandard.csproj.CoreCompileInputs.cache
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa.exe
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa.pdb

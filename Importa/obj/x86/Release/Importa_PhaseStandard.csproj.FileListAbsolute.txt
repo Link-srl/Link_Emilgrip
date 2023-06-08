@@ -1,0 +1,7 @@
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Release_PhaseStandard\Importa.exe.config
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Release_PhaseStandard\Importa.exe
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\_Release_PhaseStandard\Importa.pdb
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Release\ScambioDati.Properties.Resources.resources
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Release\Importa_PhaseStandard.csproj.GenerateResource.Cache
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Release\Importa.exe
+C:\projects\p062_phasecustom\p1007_PhaseCustom_eSolverStandardLink\Importa\obj\x86\Release\Importa.pdb
