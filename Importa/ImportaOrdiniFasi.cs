@@ -351,11 +351,15 @@ namespace ScambioDati
                         });
                         }
 
+                        string queryArt = ("SELECT * FROM PHA_ARTICOLI WHERE CodArt = '" + ordiniPhase.Articolo + "'");
+
+                        PHA_ARTICOLI artFasiERP = new PHA_ARTICOLI(queryArt);
+
                         Common.AllineaCampiDaValori(fasiPhase, new Dictionary<Zero5.Data.Filter.Field, object>()
                     {
                         { fasiPhase.Fields.IDRisorsaMacchinaPrevista , macchinePhase.IDRisorsa},
                         { fasiPhase.Fields.LavorazioneEsterna, faseEsterna},
-                        { fasiPhase.Fields.extDouble01, articoliPhase.extDouble01},
+                        { fasiPhase.Fields.PezziPerUnitaLogistica, artFasiERP.Unitapercollo},                        
                         { fasiPhase.Fields.NumeroFase,(int)(ordiniFasiERP.Numfase * 10) },
                     });
 

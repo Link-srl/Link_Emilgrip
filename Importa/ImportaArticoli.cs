@@ -10,7 +10,7 @@ namespace ScambioDati
     class ImportaArticoli
     {
         public int nrArticoliUltimaLetturaERP = 0;
-
+    
         public void EseguiImportazione()
         {
             if (!Configurazioni.Comune_Importazione_ImportaAnagraficaArticoli)
@@ -119,7 +119,6 @@ namespace ScambioDati
                     { articoliPhase.Fields.TipoArticolo, tipoArticoloERP},
                     { articoliPhase.Fields.Obsoleto, obsoletoERP},
                     { articoliPhase.Fields.PesoNetto, pesoNettoUnitarioERP},
-                //TODO: aggiungere l'extstring01 al DB e poi inserire al suo interno l'unità per collo
                     { articoliPhase.Fields.extDouble01, articoliERP.Unitapercollo}
                 });
 
