@@ -16,3 +16,4 @@ C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseSplitTable.cspro
 C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseSplitTable.csproj.CopyComplete
 C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa.exe
 C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa.pdb
+C:\Link_Source\Link_Emilgrip\Importa\obj\x86\Debug\Importa_PhaseSplitTable.csproj.SuggestedBindingRedirects.cache
